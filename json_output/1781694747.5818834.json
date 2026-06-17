@@ -1,0 +1,13 @@
+{
+    "timestamp": 1781694747.5818834,
+    "person_count": 1,
+    "bboxes": [
+        {
+            "x": 0,
+            "y": 18,
+            "width": 753,
+            "height": 458,
+            "score": 0.9502
+        }
+    ]
+}
